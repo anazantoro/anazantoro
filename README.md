@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Firzian Caesar Ananta 
+
+## 💫 About Me:
 <br>> Laboratorium Assistant at Mulawarman University, Faculty Of Engineering (approaching 2 year experience)<br>> Digital Forensic Analyst (1 year experience)<br>> CHFI Certified by EC - Council (https://s.id/ZTsZp)<br>> Currently learning & practicing Machine Learning
 
 
