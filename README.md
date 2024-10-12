@@ -1,5 +1,4 @@
 # Firzian Caesar Ananta 
-<p>I am currently skilled in the field of cybersecurity, particularly as a digital forensic analyst. Additionally, I currently have developed a strong interest in machine learning and am actively practicing and expanding my knowledge in this area.</p>
 
 ## 💫 About Me:
  > Laboratorium Assistant at Mulawarman University, Faculty Of Engineering (approaching 2 year experience)<br> Computer Hacking Forensic Investigator (CHFI) Certified by EC - Council (https://s.id/ZTsZp)<br> Currently learning & practicing Machine Learning
