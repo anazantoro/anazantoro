@@ -1,7 +1,7 @@
 # Firzian Caesar Ananta 
 
 ## 💫 About Me:
- > Laboratorium Assistant at Mulawarman University, Faculty Of Engineering (approaching 2 year experience)<br> Computer Hacking Forensic Investigator (CHFI) Certified by EC - Council (https://s.id/ZTsZp)<br> Currently learning & practicing Machine Learning
+ > Laboratorium Assistant at Mulawarman University, Faculty Of Engineering (2 year experience)<br> Computer Hacking Forensic Investigator (CHFI) Certified by EC - Council (https://s.id/ZTsZp)<br> Currently learning & practicing Machine Learning
 
 
 ## 🌐 Socials:
